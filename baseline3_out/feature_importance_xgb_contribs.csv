@@ -1,0 +1,137 @@
+feature,mean_abs_contrib
+Cerebrovascular_accident,0.12759005
+MMSE,0.1197202
+Brain_Right_4_DeepNuclei_9__pct,0.11468723
+050_Right Inf Lat Vent__pct,0.11152523
+age,0.10244105
+Brain_Left_1_Temporal_3__pct,0.08798092
+051_Left Inf Lat Vent__pct,0.08025359
+LI_MTG,0.06053992
+118_Left Ent entorhinal area__pct,0.060453326
+167_Right PCgG posterior cingulate gyrus__pct,0.049520653
+Brain_Left_0_Frontal_0_2__pct,0.04864599
+124_Left FuG fusiform gyrus__pct,0.04619466
+Brain_Left_0_Frontal_99__pct,0.044536006
+Brain_Medial_99_nan_99__pct,0.04367739
+Brain_Left_4_DeepNuclei_9__pct,0.04359665
+198_Left SOG superior occipital gyrus__pct,0.04248419
+053_Left Lateral Ventricle__pct,0.040622048
+134_Left ITG inferior temporal gyrus__pct,0.040433895
+Brain_Left_4_DeepNuclei_99__pct,0.040081415
+Brain_Right_2_Parietal_99_2__pct,0.039648395
+LI_PCu,0.0387686
+Brain_Left_4_DeepNuclei_10__pct,0.038606945
+Brain_Left_0_Frontal_2__pct,0.0372268
+197_Right SOG superior occipital gyrus__pct,0.036575995
+Brain_Right_4_DeepNuclei_99__pct,0.034174718
+049_Left Hippocampus__pct,0.03363523
+Brain_Left_99_99__pct,0.033201575
+Brain_Left_3_Occipital_7_2__pct,0.032762825
+Brain_Right_0_Frontal_0_2__pct,0.032299347
+Ventricles_total_pct,0.032087334
+Brain_Right_1_Temporal_3__pct,0.0319056
+Gender_ID_Female,0.031747174
+LI_STG,0.03134837
+133_Right ITG inferior temporal gyrus__pct,0.03127715
+Brain_Right_0_Frontal_99__pct,0.030522391
+Brain_Right_2_Parietal_5__pct,0.030516807
+204_Left TMP temporal pole__pct,0.030486776
+Brain_Left_1_Temporal_4__pct,0.029920794
+Brain_Right_3_Occipital_7_2__pct,0.029702162
+171_Right PHG parahippocampal gyrus__pct,0.029186107
+172_Left PHG parahippocampal gyrus__pct,0.029082226
+117_Right Ent entorhinal area__pct,0.028841244
+Brain_Right_0_Frontal_1__pct,0.028760068
+Brain_Right_2_Parietal_99__pct,0.028502494
+Brain_Right_2_Parietal_6__pct,0.028079612
+Brain_Left_99_nan_99__pct,0.027754383
+129_Right IOG inferior occipital gyrus__pct,0.027359989
+Brain_Right_99_99__pct,0.027359443
+Brain_Left_0_Frontal_99_2__pct,0.027347166
+201_Right STG superior temporal gyrus__pct,0.026272228
+Diabetes_mellitus,0.025986591
+048_Right Hippocampus__pct,0.025799805
+Brain_Left_2_Parietal_99__pct,0.025296059
+170_Left PCu precuneus__pct,0.025200136
+Brain_Right_4_DeepNuclei_9_2__pct,0.024782252
+146_Left MOG middle occipital gyrus__pct,0.024259232
+Brain_Left_0_Frontal_1_2__pct,0.024192361
+168_Left PCgG posterior cingulate gyrus__pct,0.024166133
+Brain_Left_4_DeepNuclei_9_2__pct,0.024004348
+Brain_Right_0_Frontal_2__pct,0.023407828
+145_Right MOG middle occipital gyrus__pct,0.023225842
+Brain_Left_0_Frontal_2_2__pct,0.023055963
+Brain_Right_0_Frontal_99_2__pct,0.022913964
+LI_ITG,0.02279572
+Temporal_lateral_total_pct,0.022450019
+Brain_Left_3_Occipital_8_2__pct,0.02244683
+199_Right SPL superior parietal lobule__pct,0.02221184
+200_Left SPL superior parietal lobule__pct,0.022056628
+Brain_Left_3_Occipital_7__pct,0.021915384
+Transient_ischemic_attack,0.021858118
+155_Right MTG middle temporal gyrus__pct,0.021696165
+Brain_Right_0_Frontal_1_2__pct,0.021627251
+052_Right Lateral Ventricle__pct,0.021249091
+LI_PCgG,0.020952916
+Brain_Left_3_Occipital_8__pct,0.02094869
+Brain_Left_0_Frontal_0__pct,0.020603161
+Brain_Right_2_Parietal_6_2__pct,0.020413807
+Brain_Left_1_Temporal_99_2__pct,0.020227697
+Brain_Right_3_Occipital_8_2__pct,0.020152884
+203_Right TMP temporal pole__pct,0.020069275
+Hypertensive_disorder,0.019820588
+Brain_Medial_99_99__pct,0.019806262
+Brain_Right_99_nan_99__pct,0.019422617
+Brain_Right_0_Frontal_2_2__pct,0.018906204
+Posterior_total_pct,0.018541329
+Brain_Left_1_Temporal_99__pct,0.01834563
+Brain_Right_3_Occipital_8__pct,0.018264132
+Brain_Left_4_DeepNuclei_99_2__pct,0.017736008
+Brain_Right_4_DeepNuclei_10_2__pct,0.017513115
+Medial_parietal_total_pct,0.017321508
+156_Left MTG middle temporal gyrus__pct,0.017317954
+Parkinsons_disease,0.01721851
+MTL_total_pct,0.017055502
+Brain_Right_4_DeepNuclei_99_2__pct,0.017020104
+Brain_Right_3_Occipital_7__pct,0.017007122
+Chronic_obstructive_lung_disease,0.016434256
+202_Left STG superior temporal gyrus__pct,0.016288517
+Brain_Left_2_Parietal_5_2__pct,0.016131539
+Brain_Left_2_Parietal_99_2__pct,0.016036281
+Brain_Left_4_DeepNuclei_10_2__pct,0.014928661
+Brain_Right_1_Temporal_4__pct,0.014605506
+123_Right FuG fusiform gyrus__pct,0.014398508
+Ischemic_heart_disease,0.013724662
+130_Left IOG inferior occipital gyrus__pct,0.013264639
+Brain_Right_0_Frontal_0__pct,0.013057916
+169_Right PCu precuneus__pct,0.01302044
+Brain_Left_2_Parietal_5__pct,0.01195775
+Brain_Right_1_Temporal_99__pct,0.011850668
+Brain_Left_0_Frontal_1__pct,0.011819532
+Brain_Right_2_Parietal_5_2__pct,0.011776896
+Brain_Right_4_DeepNuclei_10__pct,0.011754319
+Brain_Left_2_Parietal_6__pct,0.011638281
+falls,0.011439205
+Brain_Left_2_Parietal_6_2__pct,0.009805998
+Brain_Right_1_Temporal_99_2__pct,0.009748562
+Brain_Right_1_Temporal_3_2__pct,0.009212317
+Brain_Left_1_Temporal_3_2__pct,0.008300941
+Brain_Left_1_Temporal_4_2__pct,0.006681798
+hypertension,0.0053674323
+Brain_Right_1_Temporal_4_2__pct,0.0052416963
+Gender_ID_Male,0.0047662933
+Heart_failure,0.0044714436
+Atrial_fibrillation,0.0040239715
+Asthma,0.00326205
+Chronic_kidney_disease,0.002986649
+Eczema,0.0027715587
+Multiple_sclerosis,0.002478953
+Migraine,0.0018321042
+Inflammatory_bowel_disease,0.0010608095
+Epilepsy,0.0010251628
+Coronary_arteriosclerosis,0.0009515016
+Chronic_liver_disease,0.00065861765
+Arthritis,0.00055832125
+asthma,0.00033613484
+Psoriasis,0.00016084709
+Chronic_sinusitis,0.0
