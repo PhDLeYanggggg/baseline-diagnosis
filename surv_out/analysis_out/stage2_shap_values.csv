@@ -1,0 +1,16 @@
+feature,mean_abs_shap,mean_shap
+num__wmh_icv_pct,0.8231213,-0.009135322
+num__Cerebrovascular_accident,0.32708287,0.0001813339
+num__wmh_log_icv,0.18556958,-0.0013589225
+num__Hypertensive_disorder,0.16038531,-0.0025512981
+num__hypertension,0.096544884,-0.0041789208
+num__Ischemic_heart_disease,0.0824305,0.0020999939
+cat__Gender_ID_Female,0.07767444,0.0037237406
+num__wmh_missing,0.06314781,0.0019537837
+num__Diabetes_mellitus,0.05992979,0.003672851
+num__Heart_failure,0.048474915,0.0003247207
+num__Transient_ischemic_attack,0.045223925,0.0014880665
+num__Atrial_fibrillation,0.044784646,-0.00071328564
+cat__Gender_ID_Male,0.029444642,0.00250685
+num__Coronary_arteriosclerosis,0.0106090605,8.9656256e-05
+num__age,0.0,0.0

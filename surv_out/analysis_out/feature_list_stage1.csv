@@ -1,0 +1,136 @@
+feature_name,block
+048_Right Hippocampus__pct,MRI_pct
+049_Left Hippocampus__pct,MRI_pct
+117_Right Ent entorhinal area__pct,MRI_pct
+118_Left Ent entorhinal area__pct,MRI_pct
+171_Right PHG parahippocampal gyrus__pct,MRI_pct
+172_Left PHG parahippocampal gyrus__pct,MRI_pct
+155_Right MTG middle temporal gyrus__pct,MRI_pct
+156_Left MTG middle temporal gyrus__pct,MRI_pct
+133_Right ITG inferior temporal gyrus__pct,MRI_pct
+134_Left ITG inferior temporal gyrus__pct,MRI_pct
+201_Right STG superior temporal gyrus__pct,MRI_pct
+202_Left STG superior temporal gyrus__pct,MRI_pct
+123_Right FuG fusiform gyrus__pct,MRI_pct
+124_Left FuG fusiform gyrus__pct,MRI_pct
+203_Right TMP temporal pole__pct,MRI_pct
+204_Left TMP temporal pole__pct,MRI_pct
+167_Right PCgG posterior cingulate gyrus__pct,MRI_pct
+168_Left PCgG posterior cingulate gyrus__pct,MRI_pct
+169_Right PCu precuneus__pct,MRI_pct
+170_Left PCu precuneus__pct,MRI_pct
+199_Right SPL superior parietal lobule__pct,MRI_pct
+200_Left SPL superior parietal lobule__pct,MRI_pct
+197_Right SOG superior occipital gyrus__pct,MRI_pct
+198_Left SOG superior occipital gyrus__pct,MRI_pct
+145_Right MOG middle occipital gyrus__pct,MRI_pct
+146_Left MOG middle occipital gyrus__pct,MRI_pct
+129_Right IOG inferior occipital gyrus__pct,MRI_pct
+130_Left IOG inferior occipital gyrus__pct,MRI_pct
+052_Right Lateral Ventricle__pct,MRI_pct
+053_Left Lateral Ventricle__pct,MRI_pct
+050_Right Inf Lat Vent__pct,MRI_pct
+051_Left Inf Lat Vent__pct,MRI_pct
+Brain_Left_0_Frontal_0__pct,MRI_pct
+Brain_Left_0_Frontal_1__pct,MRI_pct
+Brain_Left_0_Frontal_2__pct,MRI_pct
+Brain_Left_0_Frontal_99__pct,MRI_pct
+Brain_Left_1_Temporal_3__pct,MRI_pct
+Brain_Left_1_Temporal_4__pct,MRI_pct
+Brain_Left_1_Temporal_99__pct,MRI_pct
+Brain_Left_2_Parietal_5__pct,MRI_pct
+Brain_Left_2_Parietal_6__pct,MRI_pct
+Brain_Left_2_Parietal_99__pct,MRI_pct
+Brain_Left_3_Occipital_7__pct,MRI_pct
+Brain_Left_3_Occipital_8__pct,MRI_pct
+Brain_Left_4_DeepNuclei_9__pct,MRI_pct
+Brain_Left_4_DeepNuclei_10__pct,MRI_pct
+Brain_Left_4_DeepNuclei_99__pct,MRI_pct
+Brain_Left_99_nan_99__pct,MRI_pct
+Brain_Medial_99_nan_99__pct,MRI_pct
+Brain_Right_0_Frontal_0__pct,MRI_pct
+Brain_Right_0_Frontal_1__pct,MRI_pct
+Brain_Right_0_Frontal_2__pct,MRI_pct
+Brain_Right_0_Frontal_99__pct,MRI_pct
+Brain_Right_1_Temporal_3__pct,MRI_pct
+Brain_Right_1_Temporal_4__pct,MRI_pct
+Brain_Right_1_Temporal_99__pct,MRI_pct
+Brain_Right_2_Parietal_5__pct,MRI_pct
+Brain_Right_2_Parietal_6__pct,MRI_pct
+Brain_Right_2_Parietal_99__pct,MRI_pct
+Brain_Right_3_Occipital_7__pct,MRI_pct
+Brain_Right_3_Occipital_8__pct,MRI_pct
+Brain_Right_4_DeepNuclei_9__pct,MRI_pct
+Brain_Right_4_DeepNuclei_10__pct,MRI_pct
+Brain_Right_4_DeepNuclei_99__pct,MRI_pct
+Brain_Right_99_nan_99__pct,MRI_pct
+Brain_Left_0_Frontal_0_2__pct,MRI_pct
+Brain_Left_0_Frontal_1_2__pct,MRI_pct
+Brain_Left_0_Frontal_2_2__pct,MRI_pct
+Brain_Left_0_Frontal_99_2__pct,MRI_pct
+Brain_Left_1_Temporal_3_2__pct,MRI_pct
+Brain_Left_1_Temporal_4_2__pct,MRI_pct
+Brain_Left_1_Temporal_99_2__pct,MRI_pct
+Brain_Left_2_Parietal_5_2__pct,MRI_pct
+Brain_Left_2_Parietal_6_2__pct,MRI_pct
+Brain_Left_2_Parietal_99_2__pct,MRI_pct
+Brain_Left_3_Occipital_7_2__pct,MRI_pct
+Brain_Left_3_Occipital_8_2__pct,MRI_pct
+Brain_Left_4_DeepNuclei_9_2__pct,MRI_pct
+Brain_Left_4_DeepNuclei_10_2__pct,MRI_pct
+Brain_Left_4_DeepNuclei_99_2__pct,MRI_pct
+Brain_Left_99_99__pct,MRI_pct
+Brain_Medial_99_99__pct,MRI_pct
+Brain_Right_0_Frontal_0_2__pct,MRI_pct
+Brain_Right_0_Frontal_1_2__pct,MRI_pct
+Brain_Right_0_Frontal_2_2__pct,MRI_pct
+Brain_Right_0_Frontal_99_2__pct,MRI_pct
+Brain_Right_1_Temporal_3_2__pct,MRI_pct
+Brain_Right_1_Temporal_4_2__pct,MRI_pct
+Brain_Right_1_Temporal_99_2__pct,MRI_pct
+Brain_Right_2_Parietal_5_2__pct,MRI_pct
+Brain_Right_2_Parietal_6_2__pct,MRI_pct
+Brain_Right_2_Parietal_99_2__pct,MRI_pct
+Brain_Right_3_Occipital_7_2__pct,MRI_pct
+Brain_Right_3_Occipital_8_2__pct,MRI_pct
+Brain_Right_4_DeepNuclei_9_2__pct,MRI_pct
+Brain_Right_4_DeepNuclei_10_2__pct,MRI_pct
+Brain_Right_4_DeepNuclei_99_2__pct,MRI_pct
+Brain_Right_99_99__pct,MRI_pct
+MTL_total_pct,MRI_pct
+Temporal_lateral_total_pct,MRI_pct
+Medial_parietal_total_pct,MRI_pct
+Posterior_total_pct,MRI_pct
+Ventricles_total_pct,MRI_pct
+LI_PCgG,MRI_pct
+LI_PCu,MRI_pct
+LI_MTG,MRI_pct
+LI_ITG,MRI_pct
+LI_STG,MRI_pct
+asthma,comorbidity
+falls,comorbidity
+hypertension,comorbidity
+Cerebrovascular_accident,comorbidity
+Epilepsy,comorbidity
+Diabetes_mellitus,comorbidity
+Chronic_kidney_disease,comorbidity
+Psoriasis,comorbidity
+Parkinsons_disease,comorbidity
+Multiple_sclerosis,comorbidity
+Eczema,comorbidity
+Hypertensive_disorder,comorbidity
+Transient_ischemic_attack,comorbidity
+Migraine,comorbidity
+Chronic_obstructive_lung_disease,comorbidity
+Arthritis,comorbidity
+Heart_failure,comorbidity
+Asthma,comorbidity
+Ischemic_heart_disease,comorbidity
+Inflammatory_bowel_disease,comorbidity
+Atrial_fibrillation,comorbidity
+Chronic_liver_disease,comorbidity
+Chronic_sinusitis,comorbidity
+Coronary_arteriosclerosis,comorbidity
+age,age
+MMSE,MMSE
+Gender_ID,sex
