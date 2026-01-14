@@ -1,0 +1,4 @@
+,pred_AD,pred_Mixed,pred_Non-AD
+true_AD,2018,61,38
+true_Mixed,195,714,154
+true_Non-AD,151,241,641

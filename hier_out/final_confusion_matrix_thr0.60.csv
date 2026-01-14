@@ -1,0 +1,4 @@
+,pred_AD,pred_Mixed,pred_Non-AD
+true_AD,1691,221,205
+true_Mixed,58,806,199
+true_Non-AD,29,263,741
